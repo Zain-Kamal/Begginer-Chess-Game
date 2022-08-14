@@ -1,5 +1,6 @@
 # Begginer-Chess-Game
-C++ code used to design a simple take of the game of chess. The goal of the code is to design the board and place the pieces which can be moves by the user. However, in this take all the pieces can be moves anywhere across the board rather than restricted to specfic movement.
+<h3>C++ code used to design a simple take of the game of chess</h3>
+The goal of the code is to design the board and place the pieces which can be moves by the user. However, in this take all the pieces can be moves anywhere across the board rather than restricted to specfic movement.
 
 ```
 #include <iostream>
